@@ -24,7 +24,8 @@ HTML
 ## How to Run
 1. Download or clone the repository
 2. Open `index.html` in any web browser
-#Objective
+
+# Objective
 The main objective of this project is to design and develop an automated Event Registration  Layout that 
 simplifies and streamlines the entire registration workflow. The system aims to eliminate manual form filling, 
 reduce human errors, and ensure accurate data collection through proper input validation.Another important 
